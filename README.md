@@ -1,3 +1,9 @@
-Estudiante de DAM2 en IES Segundo de Chomón (Teruel).
-Desarrollando proyectos en Java, Kotlin, y JavaScript.
-Interesado en backend, Android y bases de datos.
+👋 ¡Hola! Soy Pablo Navarro
+Estudiante de DAM2 | Android | Backend | Java | JS
+
+📚 Estudiando Desarrollo de Aplicaciones Multiplataforma
+
+💻 Experiencia en Java, Kotlin, JavaScript y SQL
+
+🔧 Practicando desarrollo backend y apps Android
+
